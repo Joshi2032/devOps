@@ -19,4 +19,6 @@ jobs:
     - name: 'tell-me-date'
       run: date
     - name: 'list-dir'
-      run: ls
+      run: ls 
+    - name: 'Saludo'
+      run: echo 'Hola Pedro'
